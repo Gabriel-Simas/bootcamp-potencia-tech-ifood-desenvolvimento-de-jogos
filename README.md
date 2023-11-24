@@ -1,4 +1,4 @@
-# 🎓 Bootcamp | Potência Tech iFood - Desenvolvimento de Jogos
+# 🚀 Bootcamp | Potência Tech iFood - Desenvolvimento de Jogos
 
 ## 💡 Visão Geral
 
