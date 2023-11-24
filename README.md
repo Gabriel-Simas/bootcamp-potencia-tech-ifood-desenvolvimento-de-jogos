@@ -16,9 +16,9 @@ Este repositório foi estruturado para simplificar a navegação, portanto eu op
 
 Confira aqui a descrição do conteúdo das pastas.
 
-- **0 - Certificados:** Aqui você pode visualizar os certificados em pdf que comprovam a conclusão dos cursos oferecidos ao decorrer do bootcamp.
+- **📁 0 - Certificados:** Aqui você pode visualizar os certificados em pdf que comprovam a conclusão dos cursos oferecidos ao decorrer do bootcamp.
 
-- **1 - Princípios de Desenvolvimento de Jogos:** Aqui você encontrará algumas anotações sobre o conteúdo de desenvolvimento de jogos.
+- **📁 1 - Princípios de Desenvolvimento de Jogos:** Aqui você encontrará algumas anotações sobre o conteúdo de desenvolvimento de jogos.
 
 ## 🔗 Pré-Requisitos
 
