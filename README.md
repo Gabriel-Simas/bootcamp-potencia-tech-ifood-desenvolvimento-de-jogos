@@ -2,7 +2,7 @@
 
 ## 💡 Visão Geral
 
-Primeiramente seja muito bem-vindo(a), esse repositório está destinado a documentar e acompanhar os conhecimentos adquiridos durante o Bootcamp: Potência Tech iFood - Desenvolvimento de Jogos, oferecido pela plataforma DIO.
+Primeiramente seja muito bem-vindo(a), esse repositório está destinado a documentar e acompanhar os conhecimentos adquiridos durante o Bootcamp: Potência Tech iFood - Desenvolvimento de Jogos, oferecido pela plataforma Digital Innovation One (DIO).
 
 ## ℹ️ Detalhes do Bootcamp
 
